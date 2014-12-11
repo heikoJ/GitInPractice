@@ -1,3 +1,4 @@
 Test
 new line
 xy test
+fetch test
